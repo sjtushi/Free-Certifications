@@ -1,7 +1,7 @@
 # Free Certifications
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/cloudcommunity/Free-Certifications?style=social)](https://github.com/cloudcommunity/Free-Certifications)
-[![Twitter Follow](https://img.shields.io/twitter/follow/CloudStudyNet?style=social)](https://twitter.com/CloudStudyNet)
+[![Twitter Follow](https://img.shields.io/twitter/follow/FreeCerts?style=social)](https://twitter.com/FreeCerts)
 
 A curated list of **free courses with certifications**. Don't forget to star ⭐ this repository.
 
